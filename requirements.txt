@@ -5,3 +5,4 @@ futures
 mechanize
 beautifulsoup4
 pandas==1.1.5
+futures
